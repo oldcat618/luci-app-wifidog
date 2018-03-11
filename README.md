@@ -1,4 +1,5 @@
 wifidog-auth-luci
+wifidog服务器端
 =================
 This is a wifidog Authentication server writed in lua language.
 It run under luci, shoud install luci and wifidog first.
